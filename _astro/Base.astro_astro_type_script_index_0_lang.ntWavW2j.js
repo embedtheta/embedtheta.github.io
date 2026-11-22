@@ -1,1 +1,0 @@
-var e=document.querySelector(`.menu-toggle`),t=document.querySelector(`#nav`);e?.addEventListener(`click`,()=>{let n=t?.classList.toggle(`open`)??!1;e.setAttribute(`aria-expanded`,String(n))});
