@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://embedtheta.github.io/</loc></url>
-  <url><loc>https://embedtheta.github.io/demo/</loc></url>
-  <url><loc>https://embedtheta.github.io/download/</loc></url>
-  <url><loc>https://embedtheta.github.io/beta/</loc></url>
-  <url><loc>https://embedtheta.github.io/trust/</loc></url>
-  <url><loc>https://embedtheta.github.io/privacy/</loc></url>
+  <url><loc>https://embedtheta.github.io/products/</loc></url>
+  <url><loc>https://embedtheta.github.io/products/thetamask/</loc></url>
+  <url><loc>https://embedtheta.github.io/products/thetamask/demo/</loc></url>
+  <url><loc>https://embedtheta.github.io/products/thetamask/download/</loc></url>
+  <url><loc>https://embedtheta.github.io/products/thetamask/beta/</loc></url>
+  <url><loc>https://embedtheta.github.io/products/thetamask/trust/</loc></url>
+  <url><loc>https://embedtheta.github.io/products/thetamask/privacy/</loc></url>
+  <url><loc>https://embedtheta.github.io/products/egp-autopilot/</loc></url>
+  <url><loc>https://embedtheta.github.io/products/context-extractor/</loc></url>
   <url><loc>https://embedtheta.github.io/policy-generator/</loc></url>
+  <url><loc>https://embedtheta.github.io/about/</loc></url>
+  <url><loc>https://embedtheta.github.io/contact/</loc></url>
+  <url><loc>https://embedtheta.github.io/privacy/</loc></url>
 </urlset>
