@@ -1,0 +1,31 @@
+# EmbedTheta
+
+> EmbedTheta is a software company in Dhaka, Bangladesh that builds custom automation and AI tools for businesses. Its software runs on the client's own computers, in Bangla and English, so client data stays with the client. Founded by Md Abu Sayeb Rayhan, an AI engineer with industry experience in Japan and Bangladesh. Embedded systems and edge AI are in development.
+
+## Services
+
+- [Services](https://embedtheta.github.io/solutions/): custom AI software, on-device AI integration and workflow automation.
+- Document processing and OCR in Bangla and English
+- Web portal and form automation (government, bank and supplier portals)
+- AI assistants on your own documents, with answers that cite file and page
+- Private use of ChatGPT and other AI with client data masked
+- Computer vision and video analytics
+- Data pipelines and reporting automation
+
+## Products
+
+- [eGP AutoPilot](https://embedtheta.github.io/products/egp-autopilot/): desktop assistant that automates tender preparation on Bangladesh's e-GP portal (eprocure.gov.bd). Windows and macOS. Available; 20 paying customers.
+- [ThetaMask](https://embedtheta.github.io/products/thetamask/): browser extension that hides client names, emails and account numbers before they reach ChatGPT, Claude or Gemini. Chrome and Edge. Beta, free.
+- [Context Extractor](https://embedtheta.github.io/products/context-extractor/): offline keyword and meaning search with cited answers over Bangla and English document archives. Windows. In development.
+
+## Proof
+
+- [Case studies](https://embedtheta.github.io/work/): eGP AutoPilot (20 paying customers); a Bangla and English OCR and search system for a Bangladesh government project (led by the founder before EmbedTheta, Feb–Jul 2024); real-time video analytics at Othello Financial Services, Japan (founder's earlier work, 70% lower latency, 50% lower cost); ThetaMask (38 of 38 sensitive values caught in held-out tests).
+
+## Company
+
+- [About and founder](https://embedtheta.github.io/about/)
+- [Contact](https://embedtheta.github.io/contact/): sayeb.cc.75@gmail.com. Free consultation; a written proposal before any work.
+- Location: Dhaka, Bangladesh. Works with clients in Bangladesh and abroad, remotely.
+- [Privacy](https://embedtheta.github.io/privacy/)
+- [Free AI-use policy generator](https://embedtheta.github.io/policy-generator/)
