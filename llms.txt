@@ -29,3 +29,14 @@
 - Location: Dhaka, Bangladesh. Works with clients in Bangladesh and abroad, remotely.
 - [Privacy](https://embedtheta.github.io/privacy/)
 - [Free AI-use policy generator](https://embedtheta.github.io/policy-generator/)
+
+## Industries
+
+- [Contractors and procurement](https://embedtheta.github.io/industries/contractors-procurement/): e-GP tender automation in Bangladesh.
+- [Law and accounting firms](https://embedtheta.github.io/industries/law-accounting/): private AI and document automation.
+- [Government and public offices](https://embedtheta.github.io/industries/government-offices/): Bangla and English OCR and offline document search.
+- [Recruitment, outsourcing and agencies](https://embedtheta.github.io/industries/recruitment-outsourcing/): data entry, portal and report automation.
+
+## Tools
+
+- [Automation savings calculator](https://embedtheta.github.io/calculator/): estimate staff hours automation could save, with the maths shown.
